@@ -1,0 +1,347 @@
+{
+    "documentTitle": "Pradeep Singh",
+    "place": "Bangkok, Thailand",
+    "contact": {
+        "email": "contact@pradeep.vip",
+        "website": "https://www.pradeep.vip",
+        "linkedIn": "https://www.linkedin.com/in/pradeep-vip/"
+    },
+    "introduction": "I am an experienced software engineer who is always open for challenging consulting or employment opportunities. Currently, I work with a leading online travel agency (OTA) developing new features and maintaining backend functions on their sites. There, I also share my experience and expertise in software development, development methodologies, and the latest trends and core programming concepts with co-workers.",
+    "professionalHighlights": [
+        "10 years of professional software development and architecture experience.",
+        "Self-motivated, organized and detail oriented. Excellent presentation and written communication skills.",
+        "Mentor - familiar with the latest technologies, with robust understanding of basics of systems design patterns like - n-tier system architecture, OO A/D, and OOP and SOLID principals."
+    ],
+    "careerHighlights": [
+        "Developed web applications and web content management systems for clients as a consultant and developer.",
+        "Proven track record of architecting and implementing several software solution projects primarily in E-Business, BBTI, Healthcare, Customer Service and Communication domains.",
+        "Re-architected and enhanced existing web applications to massively improve performance, increase usability, and introduce new features.",
+        "Aligning business goals with technology solutions to drive process automation, competitive advantage and bottom-line gains."
+    ],
+    "technicalSnapshot": [
+        {
+            "title": "Core",
+            "tags": [
+                "C#", "Scala", "Python", "Java", "TypeScript", "JavaScript", "VB6", "VB.Net", "Delphi",
+                "Node.Js",
+                "DevOps", "CI/CD", "Consul", "Docker", "Kubernetes", "Puppet", "ansible"
+            ]
+        },
+        {
+            "title": "Web and Mobile",
+            "tags": [
+                "ASP.Net", "ASP.Net core", "MVC", "Entity Framework", "Xamarin", "Unity",
+                "Spring", "Struts", "Servlets", "Hibernate",
+                "React", "React Native", "Angular", "GraphQl"
+            ]
+        },
+        {
+            "title": "Data and ML",
+            "tags": [
+                "SQL Server", "Sybase", "MySQL", "MariaDB", "Postgres",
+                "MongoDB", "Cassandra", "Kafka", "Couchbase", "Redis", "Hadoop", "Spark", "Open CV", "Pandas", "NumPy", "MatPlotLib", "SciKit- Learn", "Tensor-Flow"
+            ]
+        },
+        {
+            "title": "Others",
+            "tags": [
+                "SSO", "SAML", "OAuth", "SOAP", "Json", "RPC", "ProtoBuf", "XML", "XSLT",
+                "TDD", "Agile", "Scrum", "CMMI", "Iterative Waterfall",
+                "OWASP", "Cryptography", "Blockchain", "IoT",
+                "git", "svn", "teamcity", "travis-ci"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "position": "Lead Software Engineer",
+            "Team": "Backend Team",
+            "company": "AGODA SERVICES PTE. LTD.",
+            "tenure": {
+                "start": "Feb 2019",
+                "end": "Present"
+            },
+            "responsibilities": [
+                "Individual Contributor",
+                "Code-Refactoring",
+                "Code Review and Optimization",
+                "Systems Integration"
+            ],
+            "description": [
+                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
+                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+            ],
+            "toolsAndTechnologies": [
+                ".Net and Net Core",
+                "Scala, Hadoop and Spark",
+                "React and React Native",
+                "Kafka, Kibana, Grafana, elasticsearch and logstash",
+                "SQL Server, Couchbase and Cassandra"
+            ]
+        },
+        {
+            "position": "Senior Software Engineer",
+            "Team": "Backend Team",
+            "company": "AGODA SERVICES PTE. LTD.",
+            "tenure": {
+                "start": "Oct 2017",
+                "end": "Jan 2019"
+            },
+            "responsibilities": [
+                "Individual Contributor",
+                "Code-Refactoring",
+                "Code Review and Optimization",
+                "Systems Integration"
+            ],
+            "description": [
+                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
+                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+            ],
+            "toolsAndTechnologies": [
+                ".Net and Net Core",
+                "Scala, Hadoop and Spark",
+                "React and React Native",
+                "Kafka, Kibana, Grafana, elasticsearch and logstash",
+                "SQL Server, Couchbase and Cassandra"
+            ]
+        },
+        {
+            "position": "Technology Manager",
+            "Team": "Products",
+            "company": "VERIDIC TECHNOLOGIES PVT. LTD.",
+            "tenure": {
+                "start": "Feb 2017",
+                "end": "Jul 2017"
+            },
+            "responsibilities": [
+                "Individual Contributor",
+                "Code-Refactoring",
+                "Database design and optimization",
+                "Code Review and Optimization",
+                "Systems Integration",
+                "People and Process evolution by implementing practices like TDD, CI/CD"
+            ],
+            "description": [
+                "Managed a team of 5 developers, 1 QA engineer and 1 designer. As a team we created some very innovative products and services around a diverse set of business domains.",
+                "I got a chance to transform the team culture by setting examples and implementing agile methodologies and TDD."
+            ],
+            "toolsAndTechnologies": [
+                ".Net and Net Core",
+                "Node.Js based micro-services",
+                "Android native app development",
+                "iOS App development",
+                "Sql Server, MySql",
+                "MDM (mobile device management) solution using OTA profiles and webpage-based technologies."
+            ]
+        },
+        {
+            "position": "Senior Software Engineer",
+            "Team": "Content and Machine Learning",
+            "company": "AGODA SERVICES PTE. LTD.",
+            "tenure": {
+                "start": "Sep 2016",
+                "end": "Jan 2017"
+            },
+            "responsibilities": [
+                "Individual Contributor",
+                "Code-Refactoring",
+                "Code Review and Optimization",
+                "Systems Integration"
+            ],
+            "description": [
+                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
+                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+            ],
+            "toolsAndTechnologies": [
+                ".Net and Net Core",
+                "Scala, Akka & Play Framework",
+                "Hadoop and Spark",
+                "React and Angular",
+                "SQL Server and Cassandra"
+            ]
+        },
+        {
+            "position": "Technical Architect",
+            "Team": "EMEA Team",
+            "company": "VERIDIC TECHNOLOGIES PVT LTD.",
+            "tenure": {
+                "start": "Feb 2016",
+                "end": "Sep 2016"
+            },
+            "responsibilities": [
+                "Individual Contributor",
+                "Participate in requirement gathering process",
+                "Creating system architecture design documents like SDD, HLD, Sequence View and Dynamic View documents etc.",
+                "Impact and Risk Assessment",
+                "POCs and system evolution roadmap",
+                "Creation of deployment plans, rollback plans and delivery notes"
+            ],
+            "description": [
+                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
+                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+            ],
+            "toolsAndTechnologies": [
+                ".Net and Net Core",
+                "Java",
+                "SQL Server"
+            ]
+        },
+        {
+            "position": "Technology Manager",
+            "Team": "LATAM Team",
+            "company": "VERIDIC TECHNOLOGIES PVT LTD.",
+            "tenure": {
+                "start": "Jan 2016",
+                "end": "Feb 2016"
+            },
+            "responsibilities": [
+                "Individual Contributor",
+                "Project Planning",
+                "Resource Allocation & Management",
+                "Design & Specification",
+                "Execution & Control",
+                "Evaluate & Report"
+            ],
+            "description": [
+                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
+                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+            ],
+            "toolsAndTechnologies": [
+                ".Net and Net Core",
+                "Java",
+                "Node.Js and Angular.js",
+                "SQL Server"
+            ]
+        },
+        {
+            "position": "Project Lead Engineer",
+            "Team": "Apple EMEA Team",
+            "company": "VERIDIC TECHNOLOGIES PVT LTD.",
+            "tenure": {
+                "start": "Jan 2014",
+                "end": "Dec 2014"
+            },
+            "responsibilities": [
+                "Individual Contributor",
+                "Code refactoring & optimizations",
+                "Creating implementation & rollback plans",
+                "Assessing risk & impact for changes",
+                "SQL Programming",
+                "Database design & Normalization",
+                "Query Optimization",
+                "Communicating with business & technical stakeholders",
+                "Working with Project Managers to ensure smooth & effective delivery",
+                "Train & Mentor team",
+                "Creating technical documentation"
+            ],
+            "description": [
+                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
+                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+            ],
+            "toolsAndTechnologies": [
+                ".Net and Net Core",
+                "Java",
+                "Node.Js and Angular.js",
+                "SQL Server"
+            ]
+        },
+        {
+            "position": "Senior Software Engineer",
+            "Team": "LATAM Team",
+            "company": "VERIDIC TECHNOLOGIES PVT LTD.",
+            "tenure": {
+                "start": "Sep 2013",
+                "end": "Dec 2013"
+            },
+            "responsibilities": [
+                "Individual Contributor",
+                "Develop web applications (Asp.Net, MVC, JQuery, AJAX, SSRS Reports in Asp.Net)",
+                "Develop Windows applications (Windows Forms & WPF, Crystal Reports)",
+                "Develop Web Services & Integration APIs",
+                "SQL Programming",
+                "Code refactoring & optimization"
+            ],
+            "description": [
+                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
+                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+            ],
+            "toolsAndTechnologies": [
+                ".Net and Net Core",
+                "Java",
+                "Node.Js and Angular.js",
+                "SQL Server"
+            ]
+        },
+        {
+            "position": "Software Programmer",
+            "Team": "IT Team",
+            "company": "JINDAL INTELLICOM LTD.",
+            "tenure": {
+                "start": "Mar 2012",
+                "end": "Aug 2013"
+            },
+            "responsibilities": [
+                "Develop web applications (Asp.Net, MVC, JQuery, AJAX, Telerik)",
+                "Develop Windows applications (Windows Forms)",
+                "Creating SQL Reports & presenting them on Windows Forms",
+                "Integration with Avaya AES & Aspect call center systems",
+                "IVR & ACD (automatic call distribution) design"
+            ],
+            "description": [
+                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
+                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+            ],
+            "toolsAndTechnologies": [
+                ".Net and VB6",
+                "Avaya AES and Aspect 9",
+                "SQL Server and Sybase"
+            ]
+        },
+        {
+            "position": "Software Developer",
+            "Team": "IT Team",
+            "company": "HORIZON BPO PVT. LTD.",
+            "tenure": {
+                "start": "Mar 2009",
+                "end": "Feb 2012"
+            },
+            "responsibilities": [
+                "Supporting legacy applications (VB6)",
+                "Migration of legacy systems to .Net (Windows Forms & Asp.Net)",
+                "Database object & schema creation (tables, views, indexes, constraints etc.)"
+            ],
+            "description": [
+                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
+                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+            ],
+            "toolsAndTechnologies": [
+                ".Net, Delphi and VB6",
+                "SQL Server"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "program": "BACHELOR’S IN COMPUTER APPLICATIONS",
+            "institute": "SHOBHIT UNIVERSITY – MEERUT",
+            "Description": "3-year curriculum focusing on application development, networks, algorithms, software architecture design, multimedia, technical planning and problem-solving using case studies."
+        }
+    ],
+    "hobbiesAndInterests": {
+        "title": "Hobbies and Interests",
+        "items": [
+            "Music and Reading: I have a guitar, harmonium and I read a lot on my Kindle.",
+            "I am quite passionate about IoT and I have created a personal assistant using C#, DialogFlow and Raspberry Pi.",
+            "Coffee and pizza attract me and I am a top customer of Starbucks.",
+            "I am also interested in distributed ledgers technologies and I have completed a course on Udemy on the subject.",
+            "Computer vison and it’s applications fascinate me and keep me up late nights prototyping and building stuff.",
+            "I like taking apart electronics, just about anything that I can get my hand on."
+        ]
+    },
+    "references": {
+        "title": "References",
+        "items": [
+            "References would be provided upon request. I have also put up few testimonials about me on the website as well."
+        ]
+    }
+}
