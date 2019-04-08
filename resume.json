@@ -22,32 +22,32 @@
         {
             "title": "Core",
             "tags": [
-                "C#", "Scala", "Python", "Java", "TypeScript", "JavaScript", "VB6", "VB.Net", "Delphi",
-                "Node.Js",
-                "DevOps", "CI/CD", "Consul", "Docker", "Kubernetes", "Puppet", "ansible"
+                "c#", "scala", "python", "java", "typescript", "javascript", "vb6", "vb.net", "delphi",
+                "node.js",
+                "devops", "ci/cd", "consul", "docker", "kubernetes", "puppet", "ansible", "mcollective"
             ]
         },
         {
             "title": "Web and Mobile",
             "tags": [
-                "ASP.Net", "ASP.Net core", "MVC", "Entity Framework", "Xamarin", "Unity",
-                "Spring", "Struts", "Servlets", "Hibernate",
-                "React", "React Native", "Angular", "GraphQl"
+                "asp.net", "asp.net core", "mvc", "entity framework", "xamarin", "unity", ".net", ".net core",
+                "spring", "struts", "servlets", "hibernate", "jdbc",
+                "react", "react native", "angular", "graphQl"
             ]
         },
         {
             "title": "Data and ML",
             "tags": [
-                "SQL Server", "Sybase", "MySQL", "MariaDB", "Postgres",
-                "MongoDB", "Cassandra", "Kafka", "Couchbase", "Redis", "Hadoop", "Spark", "Open CV", "Pandas", "NumPy", "MatPlotLib", "SciKit- Learn", "Tensor-Flow"
+                "sql server", "sybase", "mysql", "mariadb", "postgres",
+                "mongodb", "cassandra", "kafka", "couchbase", "redis", "hadoop", "spark", "open cv", "pandas", "numpy", "matplotlib", "sciKit-learn", "tensorflow", "keras"
             ]
         },
         {
             "title": "Others",
             "tags": [
-                "SSO", "SAML", "OAuth", "SOAP", "Json", "RPC", "ProtoBuf", "XML", "XSLT",
-                "TDD", "Agile", "Scrum", "CMMI", "Iterative Waterfall",
-                "OWASP", "Cryptography", "Blockchain", "IoT",
+                "sso", "saml", "oauth", "soap", "json", "rpc", "protobuf", "xml", "xslt",
+                "tdd", "agile", "scrum", "cmmi", "iterative waterfall",
+                "owasp", "cryptography", "blockchain", "iot",
                 "git", "svn", "teamcity", "travis-ci"
             ]
         }
@@ -62,21 +62,26 @@
                 "end": "Present"
             },
             "responsibilities": [
-                "Individual Contributor",
-                "Code-Refactoring",
-                "Code Review and Optimization",
-                "Systems Integration"
+                "Individual contributor",
+                "Code refactoring",
+                "Code review and optimization",
+                "Systems integration",
+                "Collaboration with internal teams for design and architecture",
+                "Design reviews",
+                "Architecture design and planning"
             ],
             "description": [
-                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
+                "Working on distributed systems to meet resiliency, paralellization and scalability goals. Internal collaboration with other teams for integrations.",
+                "Mentoring senior and junior engineers for clean coding and architecture patterns",
                 "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
             ],
             "toolsAndTechnologies": [
-                ".Net and Net Core",
-                "Scala, Hadoop and Spark",
-                "React and React Native",
-                "Kafka, Kibana, Grafana, elasticsearch and logstash",
-                "SQL Server, Couchbase and Cassandra"
+                ".net", ".net core", "asp.net", "mvc",
+                "scala", "hadoop", "spark",
+                "react", "react native", "node.js", "graphql", "rest","micro-services",
+                "kafka", "kibana", "grafana", "elasticsearch", "logstash",
+                "sql server", "couchbase", "cassandra",
+                "continuous integration", "continuous delivery", "ci/cd", "teamcity", "puppet", "docker", "kubernetes"
             ]
         },
         {
@@ -88,21 +93,23 @@
                 "end": "Jan 2019"
             },
             "responsibilities": [
-                "Individual Contributor",
-                "Code-Refactoring",
-                "Code Review and Optimization",
-                "Systems Integration"
+                "Individual contributor",
+                "Code refactoring",
+                "Code review and optimization",
+                "Systems integration"
             ],
             "description": [
                 "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
-                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+                "Worked on a vide range of systems using technologies like .Net Core, Scala, Python, Java, Javascript, Python, Docker, Puppet and MCollective etc. to name a few.",
+                "Logging and measurements for monitoring, troubleshooting and improvements. Setup of monitoring dashboards using Grafana and ELK (elasticsearch, logstash and kibana)."
             ],
             "toolsAndTechnologies": [
-                ".Net and Net Core",
-                "Scala, Hadoop and Spark",
-                "React and React Native",
-                "Kafka, Kibana, Grafana, elasticsearch and logstash",
-                "SQL Server, Couchbase and Cassandra"
+                ".net", ".net core", "asp.net", "mvc",
+                "scala", "hadoop", "spark",
+                "react", "react native", "node.js", "graphql", "rest","micro-services",
+                "kafka", "kibana", "grafana", "elasticsearch", "logstash",
+                "sql server", "couchbase", "cassandra",
+                "continuous integration", "continuous delivery", "ci/cd", "teamcity", "puppet", "docker", "kubernetes"
             ]
         },
         {
@@ -114,24 +121,27 @@
                 "end": "Jul 2017"
             },
             "responsibilities": [
-                "Individual Contributor",
-                "Code-Refactoring",
+                "Individual contributor",
+                "Code refactoring",
                 "Database design and optimization",
-                "Code Review and Optimization",
-                "Systems Integration",
-                "People and Process evolution by implementing practices like TDD, CI/CD"
+                "Code review and optimization",
+                "Systems integration",
+                "People and process evolution by implementing practices like TDD, CI/CD"
             ],
             "description": [
                 "Managed a team of 5 developers, 1 QA engineer and 1 designer. As a team we created some very innovative products and services around a diverse set of business domains.",
                 "I got a chance to transform the team culture by setting examples and implementing agile methodologies and TDD."
             ],
             "toolsAndTechnologies": [
-                ".Net and Net Core",
-                "Node.Js based micro-services",
-                "Android native app development",
-                "iOS App development",
-                "Sql Server, MySql",
-                "MDM (mobile device management) solution using OTA profiles and webpage-based technologies."
+                ".net", ".net core", "asp.net", "mvc",
+                "node.js", "micro-services",
+                "aws",
+                "android native",
+                "ios native",
+                "sql server", "mysql",
+                "mdm", "mobile device management", "OTA profiles delivery using webpage-based technologies",
+                "continuous integration", "continuous delivery", "ci/cd", "tfs", "team foundation server",
+                "gitlab"
             ]
         },
         {
@@ -149,15 +159,17 @@
                 "Systems Integration"
             ],
             "description": [
-                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
-                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+                "I joined the machine learning team but due to my vast experience with Microsoft technologies I was allocated to a fast paced project to add new features to a website used by partners.",
+                "Worked on new pages using angular with asp.net, full-stack design and development experience changed my perception about front-end development",
+                "After a couple of months got a chance to to work on big data pipelines using scala, spark and hadoop for content processing.",
+                "I also got my first exposure to machine learning using SVMs."
             ],
             "toolsAndTechnologies": [
-                ".Net and Net Core",
-                "Scala, Akka & Play Framework",
-                "Hadoop and Spark",
-                "React and Angular",
-                "SQL Server and Cassandra"
+                ".net", ".net core", "asp.net",
+                "scala", "akka", "play framework",
+                "hadoop", "spark",
+                "react", "angular",
+                "sql server", "cassandra"
             ]
         },
         {
@@ -169,21 +181,25 @@
                 "end": "Sep 2016"
             },
             "responsibilities": [
-                "Individual Contributor",
+                "Individual contributor",
                 "Participate in requirement gathering process",
-                "Creating system architecture design documents like SDD, HLD, Sequence View and Dynamic View documents etc.",
-                "Impact and Risk Assessment",
+                "Creating system architecture design documents like SDD, HLD, sequence view and dynamic view documents etc.",
+                "Impact and risk assessment",
                 "POCs and system evolution roadmap",
                 "Creation of deployment plans, rollback plans and delivery notes"
             ],
             "description": [
-                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
-                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+                "As a technical architect I was primarily responsible for interacting with customers to understand business use cases and finding right tools and technologies.",
+                "I was involved in new projects from beginning to end and I was responsible to make sure that the solutions delivered met the quality, scalability and resiliency standards defined in SLAs agreed with the customers.",
+                "I was also involved in guiding the engineering teams around the implementation and architecture details of the solutions being developed.",
+                "As a part of my job I was also responsible for conducting security and compliance audits. During my tenure as a Technical Architect I got a chance to lean about standards like SOX and PCIDSS."
             ],
             "toolsAndTechnologies": [
-                ".Net and Net Core",
-                "Java",
-                "SQL Server"
+                ".net", ".net core", "asp.net", "mvc",
+                "aws",
+                "java",
+                "sql server",
+                "iis", "internet information services", "windows server"
             ]
         },
         {
@@ -195,22 +211,27 @@
                 "end": "Feb 2016"
             },
             "responsibilities": [
-                "Individual Contributor",
-                "Project Planning",
-                "Resource Allocation & Management",
-                "Design & Specification",
-                "Execution & Control",
-                "Evaluate & Report"
+                "Individual contributor",
+                "Project planning",
+                "Resource allocation & management",
+                "Design & specification control and management",
+                "Project planning, execution & control",
+                "Evaluate & report time, cost and budget"
             ],
             "description": [
-                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
-                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+                "As a technology manager I headed the offshore development team for latin american region for the largest distributor of global wireless devices.",
+                "I managed a team of 5 developers, 2 QA engineers, 1 release and devops engineer. The team size grew by 65% during my management tenure.",
+                "As an engineer the role of Project planning and delivery was new to me and I quickly learned about project planning, management, execution and delivery.",
+                "My responsbility as a delivery manager for latin american region was to ensure software delivery on time and within budget with agreed quality standards.",
+                "As a part of my daily job was to interact daily with senior management and stake holders about the new, ongoing and delivered projects and systems",
+                "During my stint with the team I helped the team to become a autonomous machine that could work without any kind of external intervention. My goal here was to empower the team members to be able to be cross functional and be ready to take next level of responsibilities."
             ],
             "toolsAndTechnologies": [
-                ".Net and Net Core",
-                "Java",
-                "Node.Js and Angular.js",
-                "SQL Server"
+                ".net", "asp.net", "mvc",
+                "sharepoint", "team foundation server", "tfs",
+                "java",
+                "node.js", "angular.js",
+                "sql server"
             ]
         },
         {
@@ -222,27 +243,30 @@
                 "end": "Dec 2014"
             },
             "responsibilities": [
-                "Individual Contributor",
+                "Individual contributor",
                 "Code refactoring & optimizations",
                 "Creating implementation & rollback plans",
                 "Assessing risk & impact for changes",
-                "SQL Programming",
+                "SQL programming",
                 "Database design & Normalization",
-                "Query Optimization",
+                "Query optimization",
                 "Communicating with business & technical stakeholders",
-                "Working with Project Managers to ensure smooth & effective delivery",
-                "Train & Mentor team",
-                "Creating technical documentation"
+                "Working with project managers to ensure smooth & effective delivery",
+                "Train & mentor team",
+                "Creating technical documentation",
+                "Working with QA engineers to ensure quality and bug free code."
             ],
             "description": [
-                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
-                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+                "As a Project Lead Engineer my core responsibility was to guide the team of engineers workig with me to deliver cutting edge software solutions that follow best practices and right coding standards. I was also responsible for code reviews.",
+                "I worked with Project Managers and Technical Architects during the initiation phase for new projects and conducted technical feasibility studies around the business requirements and solution design.",
+                "Being an individual contributor I was also always involved in the day to day software development activities."
             ],
             "toolsAndTechnologies": [
-                ".Net and Net Core",
-                "Java",
-                "Node.Js and Angular.js",
-                "SQL Server"
+                ".net", "asp.net", "windows forms", "wpf", "clickonce", "mvc",
+                "aws",
+                "java",
+                "jquery", "css", "javascript",
+                "sql server"
             ]
         },
         {
@@ -262,14 +286,14 @@
                 "Code refactoring & optimization"
             ],
             "description": [
-                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
-                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+                "I was part of a team working on buyback systems for a leading global distributor of wireless devices. This was a full-stack profile and as a developer I was responsible for creating and supporting web and desktop applications.",
+                "I was also responsible for database schema design and programming for relational database for the features that I worked on."
             ],
             "toolsAndTechnologies": [
-                ".Net and Net Core",
-                "Java",
-                "Node.Js and Angular.js",
-                "SQL Server"
+                ".net", "asp.net", "windows forms", "wpf", "mvc",
+                "java",
+                "jquery", "css", "javascript",
+                "sql server"
             ]
         },
         {
@@ -282,14 +306,15 @@
             },
             "responsibilities": [
                 "Develop web applications (Asp.Net, MVC, JQuery, AJAX, Telerik)",
-                "Develop Windows applications (Windows Forms)",
-                "Creating SQL Reports & presenting them on Windows Forms",
+                "Develop windows applications (Windows Forms)",
+                "Creating SQL Reports & presenting them on windows forms applications",
                 "Integration with Avaya AES & Aspect call center systems",
                 "IVR & ACD (automatic call distribution) design"
             ],
             "description": [
-                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
-                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+                "As an engineer in the IT department of a BPO company I was responsible for creation and support of CRM systems. In additiona we also integrated with dialer and PBX systems to improve agent productivity.",
+                "I was involved in a migration of a massive reporting and MIS application from a VB6 desktop application to a web based portal using Asp.Net and SSRS",
+                "Here I created a .Net component that could be dropped into any .net based windows forms application to integrate with Avaya ACD system. During this process I learned about the implementation details of TSAPI and CSTA based systems."
             ],
             "toolsAndTechnologies": [
                 ".Net and VB6",
@@ -311,12 +336,12 @@
                 "Database object & schema creation (tables, views, indexes, constraints etc.)"
             ],
             "description": [
-                "Created a Gateway API to replace the legacy systems and APIs and improve system security and performance and simplify the design. Implemented the code generation (client), CI/CD and container deployments for the API.",
-                "Right now, working on a batch processing service using Kafka and Couchbase to be deployed to company Kubernetes cluster."
+                "Worked on internal tools and softwares for medical billing BPO. The software were legacy systems mostly written in languages like VB6 and Delphi. There were complex integrations with clearning houses and insurance systems for payment processing and claim submission. The systems were governed by HIPAA laws so data security and privacy were a top priority.",
+                "In this position I gained a lot of experience around integrations and complex system architecture which helped me a lot later in my career."
             ],
             "toolsAndTechnologies": [
-                ".Net, Delphi and VB6",
-                "SQL Server"
+                ".net", "delhi","vb6",
+                "sql server"
             ]
         }
     ],
