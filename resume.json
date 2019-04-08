@@ -330,12 +330,41 @@
     "hobbiesAndInterests": {
         "title": "Hobbies and Interests",
         "items": [
-            "Music and Reading: I have a guitar, harmonium and I read a lot on my Kindle.",
-            "I am quite passionate about IoT and I have created a personal assistant using C#, DialogFlow and Raspberry Pi.",
-            "Coffee and pizza attract me and I am a top customer of Starbucks.",
-            "I am also interested in distributed ledgers technologies and I have completed a course on Udemy on the subject.",
-            "Computer vison and it’s applications fascinate me and keep me up late nights prototyping and building stuff.",
-            "I like taking apart electronics, just about anything that I can get my hand on."
+            {
+                "title": "Music",
+                "description": "I like indian classical and fusion music. As a kid I lived and studied in several places and I developed a special taste for folk music as well.",
+                "icon": "music"
+            },
+            {
+                "title": "Reading",
+                "description": "I am an avid reader. My favorite topics are Technology, Meta Physics, Physics and Programming",
+                "icon": "reading"
+            },
+            {
+                "title": "IoT",
+                "description": "I am quite passionate about IoT and I have created a personal assistant using C#, DialogFlow and Raspberry Pi.",
+                "icon": "iot"
+            },
+            {
+                "title": "Coffee and Pizza",
+                "description": "Coffee and pizza attract me and I am a top customer of Starbucks.",
+                "icon": "coffee"
+            },
+            {
+                "title": "Distributed Ledgers (aka Blockchain)",
+                "description": "I am also interested in distributed ledgers technologies and I have completed a course on Udemy on the subject.",
+                "icon": "blockchain"
+            },
+            {
+                "title": "Computer Vision",
+                "description": "Computer vison and it’s applications fascinate me and keep me up late nights prototyping and building stuff.",
+                "icon": "cv"
+            },
+            {
+                "title": "Electronics",
+                "description": "I like taking apart electronics, just about anything that I can get my hand on.",
+                "icon": "electronics"
+            }
         ]
     },
     "references": {
