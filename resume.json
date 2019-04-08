@@ -317,9 +317,9 @@
                 "Here I created a .Net component that could be dropped into any .net based windows forms application to integrate with Avaya ACD system. During this process I learned about the implementation details of TSAPI and CSTA based systems."
             ],
             "toolsAndTechnologies": [
-                ".Net and VB6",
-                "Avaya AES and Aspect 9",
-                "SQL Server and Sybase"
+                ".net", "vb6",
+                "avaya", "avaya aes", "aspect 9", "dialer", "pbx", "acd",
+                "sql server", "sybase"
             ]
         },
         {
