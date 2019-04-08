@@ -55,7 +55,7 @@
     "experience": [
         {
             "position": "Lead Software Engineer",
-            "Team": "Backend Team",
+            "team": "Backend Team",
             "company": "AGODA SERVICES PTE. LTD.",
             "tenure": {
                 "start": "Feb 2019",
@@ -81,7 +81,7 @@
         },
         {
             "position": "Senior Software Engineer",
-            "Team": "Backend Team",
+            "team": "Backend Team",
             "company": "AGODA SERVICES PTE. LTD.",
             "tenure": {
                 "start": "Oct 2017",
@@ -107,7 +107,7 @@
         },
         {
             "position": "Technology Manager",
-            "Team": "Products",
+            "team": "Products",
             "company": "VERIDIC TECHNOLOGIES PVT. LTD.",
             "tenure": {
                 "start": "Feb 2017",
@@ -136,7 +136,7 @@
         },
         {
             "position": "Senior Software Engineer",
-            "Team": "Content and Machine Learning",
+            "team": "Content and Machine Learning",
             "company": "AGODA SERVICES PTE. LTD.",
             "tenure": {
                 "start": "Sep 2016",
@@ -162,7 +162,7 @@
         },
         {
             "position": "Technical Architect",
-            "Team": "EMEA Team",
+            "team": "EMEA Team",
             "company": "VERIDIC TECHNOLOGIES PVT LTD.",
             "tenure": {
                 "start": "Feb 2016",
@@ -188,7 +188,7 @@
         },
         {
             "position": "Technology Manager",
-            "Team": "LATAM Team",
+            "team": "LATAM Team",
             "company": "VERIDIC TECHNOLOGIES PVT LTD.",
             "tenure": {
                 "start": "Jan 2016",
@@ -215,7 +215,7 @@
         },
         {
             "position": "Project Lead Engineer",
-            "Team": "Apple EMEA Team",
+            "team": "Apple EMEA Team",
             "company": "VERIDIC TECHNOLOGIES PVT LTD.",
             "tenure": {
                 "start": "Jan 2014",
@@ -247,7 +247,7 @@
         },
         {
             "position": "Senior Software Engineer",
-            "Team": "LATAM Team",
+            "team": "LATAM Team",
             "company": "VERIDIC TECHNOLOGIES PVT LTD.",
             "tenure": {
                 "start": "Sep 2013",
@@ -274,7 +274,7 @@
         },
         {
             "position": "Software Programmer",
-            "Team": "IT Team",
+            "team": "IT Team",
             "company": "JINDAL INTELLICOM LTD.",
             "tenure": {
                 "start": "Mar 2012",
@@ -299,7 +299,7 @@
         },
         {
             "position": "Software Developer",
-            "Team": "IT Team",
+            "team": "IT Team",
             "company": "HORIZON BPO PVT. LTD.",
             "tenure": {
                 "start": "Mar 2009",
@@ -324,7 +324,7 @@
         {
             "program": "BACHELOR’S IN COMPUTER APPLICATIONS",
             "institute": "SHOBHIT UNIVERSITY – MEERUT",
-            "Description": "3-year curriculum focusing on application development, networks, algorithms, software architecture design, multimedia, technical planning and problem-solving using case studies."
+            "description": "3-year curriculum focusing on application development, networks, algorithms, software architecture design, multimedia, technical planning and problem-solving using case studies."
         }
     ],
     "hobbiesAndInterests": {
