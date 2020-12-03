@@ -72,7 +72,7 @@
                 "Architecture design, planning"
             ],
             "description": [
-                "Provide technical leadership across the tribe, making architectural decisions, planning implementation and rollouts."
+                "Provide technical leadership across the tribe, making architectural decisions, planning implementation and rollouts.",
                 "Mentor, empower and lead teams in the process of building microservices and be the guide to focus on scale and resiliency.",
                 "Code review and Pair program with other engineers to promote extreme programming techniques and methods.",
                 "Creating technology demonstration PoCs and leading service design by creating working prototypes ready to be scaled up in terms of features and capabilities.",
