@@ -54,12 +54,47 @@
     ],
     "experience": [
         {
+            "position": "Principal Engineer",
+            "team": "Platform & Partners",
+            "company": "Delivery Hero Talabat DB LLC",
+            "tenure": {
+                "start": "Feb 2020",
+                "end": "Present"
+            },
+            "responsibilities": [
+                "Technical Lead",
+                "Individual contributor",
+                "Code refactoring",
+                "Code review and optimization",
+                "Systems integration",
+                "Collaboration with squads and tribes for design review and architecture decisions",
+                "Design reviews",
+                "Architecture design, planning"
+            ],
+            "description": [
+                "Provide technical leadership across the tribe, making architectural decisions, planning implementation and rollouts."
+                "Mentor, empower and lead teams in the process of building microservices and be the guide to focus on scale and resiliency.",
+                "Code review and Pair program with other engineers to promote extreme programming techniques and methods.",
+                "Creating technology demonstration PoCs and leading service design by creating working prototypes ready to be scaled up in terms of features and capabilities.",
+                "Promoting the devops culture across squads in the tribe and across the company with strong focus on automation and tests",
+                "Working closely with product teams to marry technology with business."
+            ],
+            "toolsAndTechnologies": [
+                ".net", ".net core", "asp.net core", "efcore",
+                "typescript", "javascript",
+                "react", "node.js", "rest","micro-services",
+                "kafka", "kibana", "grafana", "elasticsearch", "logstash",
+                "sql server", "postgres", "redis",
+                "continuous integration", "continuous delivery", "ci/cd", "terraform", "kubernetes", "aws", "circleci", "azure devops"
+            ]
+        },
+        {
             "position": "Lead Software Engineer",
             "team": "Backend Team",
             "company": "AGODA SERVICES PTE. LTD.",
             "tenure": {
                 "start": "Feb 2019",
-                "end": "Present"
+                "end": "Feb 2020"
             },
             "responsibilities": [
                 "Individual contributor",
